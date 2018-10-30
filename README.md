@@ -1,2 +1,2 @@
-# ReactClient
-Basic starting code with Login functionality
+# react-client
+Basic starting code with Login/Register functionality
